@@ -1,0 +1,6 @@
+export enum CentralEvent {
+  USER_REGISTERED = 'user.registered',
+  USER_UPDATED = 'user.updated',
+
+  NOTIFICATION_EMAIL_SENT = 'notification.email.sent',
+}
